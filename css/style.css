@@ -1,9 +1,10 @@
 .parent{
   display: flex;
   flex-direction: row;
+  background-color:#E6E6FA;
 }
 .childone{
-  border: 3px solid #1D98bb;
+  border: 3px solid #8B008B;
   padding: 3%;
   margin: 2%;
   width: 30%;
@@ -20,7 +21,7 @@ img{
   margin-right: auto;
 }
 .childtwo{
-  border: 3px solid #1D98bb;
+  border: 3px solid #8B008B;
   padding: 3%;
   margin: 2%;
   width: 70%;
